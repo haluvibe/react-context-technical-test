@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FavouritesList should render correctly with mock props 1`] = `
+<ul>
+  <li
+    key="00000000-0000-0000-0000-000000000000"
+  >
+    India Session Lager - Prototype Challenge
+    <button
+      onClick={[Function]}
+    >
+       - 
+    </button>
+  </li>
+</ul>
+`;

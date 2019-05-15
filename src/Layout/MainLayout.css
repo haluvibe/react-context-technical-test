@@ -1,0 +1,29 @@
+/* MainLayout styles */
+
+.container {
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+
+.spacer--big {
+  margin-bottom: 20vw;
+}
+
+.spacer--small {
+  margin-bottom: 12px;
+}
+
+@media only screen and (min-width: 768px){
+  .container {
+    margin-left: 20vw;
+    margin-right: 20vw;
+  }
+
+  .spacer--big {
+    margin-bottom: 20vw;
+  }
+
+  .spacer--small {
+    margin-bottom: 24px;
+  }
+}

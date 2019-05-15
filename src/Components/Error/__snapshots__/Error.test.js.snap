@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error should render correctly with no props 1`] = `
+<div>
+  Oops, something went wrong whilst fetching the punk api...
+</div>
+`;
